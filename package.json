@@ -1,0 +1,47 @@
+{
+  "name": "fitness-gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MandaMai/fitness-gulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MandaMai/fitness-gulp/issues"
+  },
+  "homepage": "https://github.com/MandaMai/fitness-gulp#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "gulp": "^3.9.1",
+    "gulp-angular-htmlify": "^2.3.0",
+    "gulp-assets": "^0.2.2",
+    "gulp-babel": "^7.0.0",
+    "gulp-beautify": "^2.0.1",
+    "gulp-cached": "^1.1.1",
+    "gulp-coffee": "^2.3.4",
+    "gulp-color": "0.0.1",
+    "gulp-colorguard": "^1.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-email": "0.0.7",
+    "gulp-fontastic": "^0.1.2",
+    "gulp-google-fonts": "^1.0.3",
+    "gulp-html": "^0.4.7",
+    "gulp-htmlhint": "^0.3.1",
+    "gulp-path": "^3.0.3",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-util": "^3.0.8",
+    "gulp-w3c-css": "^1.0.1",
+    "gulp-watch": "^4.3.11"
+  },
+  "dependencies": {
+    "gulp-htmlhint-html-reporter": "^1.0.1"
+  }
+}
